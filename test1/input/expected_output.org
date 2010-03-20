@@ -1,0 +1,5 @@
+* TODO test
+  SCHEDULED: <2010-03-08 Mo +1w>
+  :PROPERTIES:
+  :LAST_REPEAT: [2010-03-01 Mo 09:45]
+  :END:
