@@ -1,0 +1,5 @@
+* licence
+* capture actual programming errors
+* temporal firewall for predictable timestamps
+* list of buffers to capture + compare, visually and content
+* work with list of keystrokes instead of direct function calls
