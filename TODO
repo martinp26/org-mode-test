@@ -1,5 +1,15 @@
 * licence
 * capture actual programming errors
 * temporal firewall for predictable timestamps
+  http://uberhip.com/people/godber/interception/html/slide_6.html
 * list of buffers to capture + compare, visually and content
 * work with list of keystrokes instead of direct function calls
+* specify additional settings to the ones in the test to verify own
+  setup with a set of tests
+* groups tests thematically into sub-directories
+  * e.g., start with basic functionality tests, folding, navigation
+    etc.
+  * agendas etc.
+  * exporting in various ways
+* extended format for visual comparing, somehow store properties and
+  faces with the file
